@@ -1,4 +1,3 @@
-import './App.module.css';
 import Profile from './Task1/Profile.jsx';
 import userData from './Task1/userData.json';
 import FriendList from './Task2/FriendList.jsx';
