@@ -1,0 +1,27 @@
+.itemsStyle {
+    display: flex;
+    justify-content: space-around;
+    gap:4px;
+}
+.itemStyle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    width: 100%;
+    border: 1px solid #573ca1c9;
+    border-radius: 16px;
+    padding: 8px;
+    background-color: rgba(217, 168, 245, 0.658);
+    box-shadow: inset 0px 4px 6px rgba(15, 1, 15, 0.2), 
+    inset 0px -2px 4px rgba(8, 1, 8, 0.3);
+    }
+
+.itemText {
+    font-family: 'Akaya Kanadaka', sans-serif;
+    font-size: 36px;
+}
+.itemNumber {
+   font-family: 'Akaya Kanadaka', sans-serif;
+   font-size: 20px;
+}

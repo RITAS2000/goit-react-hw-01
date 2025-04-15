@@ -1,0 +1,23 @@
+.table {
+    width: 800px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    margin-bottom: 100px;
+}
+
+.table thead {
+    background: #2c2b7a;
+    color: rgb(247, 242, 242);
+}
+
+.table th,
+.table td {
+    border: 1px solid #2c2b7a;
+    padding: 12px 16px;
+    text-align: center;
+}
+
+.table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
