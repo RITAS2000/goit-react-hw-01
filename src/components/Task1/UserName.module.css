@@ -18,8 +18,10 @@ box-shadow: inset 0px 4px 6px rgba(14, 0, 14, 0.2);
     box-shadow: inset 0px 4px 6px rgba(14, 0, 14, 0.2);
 }
 .title {
+    font-family: 'Akaya Kanadaka', sans-serif;
     font-size: 36px;
 }
 .text {
+    font-family: 'Akaya Kanadaka', sans-serif;
     font-size: 28px;
 }
